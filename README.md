@@ -5,4 +5,4 @@ problems.
 I am also a university student.
 I haven't started working yet but my goal is to become a full stack freelancer.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= samanthewebdev&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanthewebdev&theme=radical)
